@@ -11,6 +11,8 @@
   </ul>
 </details>
 
+### :iphone: <a href="https://ignite-coffeeshop.vercel.app/">LIVE - DEMO</a>
+
 <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="" width="30" height="30" /></a>
 <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="Google" width="30" height="30" /></a>
 <a href="#"><img src="https://user-images.githubusercontent.com/99184393/177784219-cab3eb2f-bc21-4c09-ab9e-dd7272605ca5.png" alt="" width="30" height="30" /></a>
